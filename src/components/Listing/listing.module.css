@@ -1,0 +1,23 @@
+.levellow { 
+    background-color:#a94442; 
+}
+
+.levelmedium { 
+    background-color:#8a6d3b; 
+}
+
+.levelhigh { 
+    background-color:#3c763d; 
+}
+
+
+.itemquantity {
+    border-radius:2px;
+    bottom:1rem;
+    color:#fff;
+    font-size:.75rem;
+    font-weight:600;
+    padding:.25rem .5rem;
+    position:absolute;
+    right:1rem;
+  }

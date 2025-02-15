@@ -141,16 +141,7 @@ top:5px;
   line-height:1;
 }
 
-.item-quantity {
-  border-radius:2px;
-  bottom:1rem;
-  color:#fff;
-  font-size:.75rem;
-  font-weight:600;
-  padding:.25rem .5rem;
-  position:absolute;
-  right:1rem;
-}
+
 
 
 /* Quantity Level */
@@ -159,9 +150,7 @@ top:5px;
   color:#fff;
 }
 
-.level-low { background-color:#a94442; }
-.level-medium { background-color:#8a6d3b; }
-.level-high { background-color:#3c763d; }
+
 
 
 /* Media Queries */
